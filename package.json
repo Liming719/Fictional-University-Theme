@@ -1,0 +1,30 @@
+{  
+  "name": "fictional-university-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "dev": "wp-scripts start",
+    "devFast": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiMing0906/Fictional-University-Theme.git"
+  },
+  "author": "Li Ming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiMing0906/Fictional-University-Theme/issues"
+  },
+  "homepage": "https://github.com/LiMing0906/Fictional-University-Theme#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4",
+    "@wordpress/scripts": "^23.3.0",
+    "@glidejs/glide": "^3.4.1",
+    "axios": "^0.21.1",
+    "normalize.css": "^8.0.1"
+  }
+}

@@ -1,0 +1,13 @@
+/*
+Theme Name:Fictional University Theme
+Author: LiMing
+Version: 1.0
+Text Domain: FU_domain
+Domain Path: /src/lang
+*/
+
+
+body {
+    background-color: lightslategray;
+    color: lightblue;
+}
